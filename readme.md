@@ -25,4 +25,9 @@ or
 > bigfile.bat
 
 ## Result and output
-As a result of script execution, you get a txt file
+As a result of script execution, you get a txt file.
+
+### Example:
+
+result.txt
+![cmd.bat]()
