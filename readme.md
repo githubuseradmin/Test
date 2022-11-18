@@ -16,7 +16,7 @@ Output: txt file
 
 ## Usage
 ### SH
-> ./bigfile.sh
+> ./bigfile.sh <
 or
 > bash bigfile.sh
 ### CMD
