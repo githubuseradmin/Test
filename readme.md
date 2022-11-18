@@ -27,11 +27,15 @@ or
 ## Result and output
 As a result of script execution, you get a txt file.
 
-### Example:
+## Example:
+
+The biggest file
+
+![thebiggestfile]()
 
 result.txt
 
-> Bytes: 36
+> Bytes: 36\n
 > Words: 6
 > Characters: 36
 > Lines: 3
