@@ -31,7 +31,7 @@ As a result of script execution, you get a txt file.
 
 The biggest file
 
-![thebiggestfile]()
+![thebiggestfile](https://github.com/githubuseradmin/test/blob/baee08c084f985b702979ffed4a7d6a68a722f0d/thebiggestfile.png)
 
 result.txt
 
