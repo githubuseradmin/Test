@@ -38,8 +38,8 @@ Hello world<br>
 ### result.txt
 
 > Bytes: 36<br>
-Words: 6<br>
-Characters: 36<br>
+> Words: 6<br>
+>Characters: 36<br>
 Lines: 3<br>
 
 ### SH
