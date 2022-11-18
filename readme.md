@@ -30,4 +30,5 @@ As a result of script execution, you get a txt file.
 ### Example:
 
 result.txt
+
 ![cmd.bat](https://github.com/githubuseradmin/test/blob/6f7d2d4d6a5150497aadb26bfe4434ff10bd78bb/cmd.jpeg)
