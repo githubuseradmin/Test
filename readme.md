@@ -38,14 +38,14 @@ Hello world<br>
 ### result.txt
 
 > Bytes: 36<br>
-> Words: 6<br>
->Characters: 36<br>
+Words: 6<br>
+Characters: 36<br>
 Lines: 3<br>
 
 ### SH
 
-![SH](https://github.com/githubuseradmin/test/blob/fb348a00c3bcd97ea83c5b03cc8b94eac9046155/sh.png)
+![SH](sh.png)
 
 ### BAT
 
-![cmd](https://github.com/githubuseradmin/test/blob/fb348a00c3bcd97ea83c5b03cc8b94eac9046155/bat.png)
+![cmd](bat.png)
