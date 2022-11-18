@@ -29,16 +29,14 @@ As a result of script execution, you get a txt file.
 
 ## Example:
 
-The biggest file
+### The biggest file
 
-![thebiggestfile](https://github.com/githubuseradmin/test/blob/baee08c084f985b702979ffed4a7d6a68a722f0d/thebiggestfile.png)
+### result.txt
 
-result.txt
-
-> Bytes: 36\n
-> Words: 6
-> Characters: 36
-> Lines: 3
+> Bytes: 36<br>
+Words: 6<br>
+Characters: 36<br>
+Lines: 3<br>
 
 ### SH
 
