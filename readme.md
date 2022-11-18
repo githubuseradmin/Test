@@ -31,4 +31,9 @@ As a result of script execution, you get a txt file.
 
 result.txt
 
+> Bytes: 36
+Words: 6
+Characters: 36
+Lines: 3
+
 ![cmd.bat](https://github.com/githubuseradmin/test/blob/6f7d2d4d6a5150497aadb26bfe4434ff10bd78bb/cmd.jpeg)
