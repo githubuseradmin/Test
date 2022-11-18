@@ -38,8 +38,8 @@ result.txt
 
 ### SH
 
-![SH]()
+![SH](https://github.com/githubuseradmin/test/blob/fb348a00c3bcd97ea83c5b03cc8b94eac9046155/sh.png)
 
 ### BAT
 
-![cmd](https://github.com/githubuseradmin/test/blob/6f7d2d4d6a5150497aadb26bfe4434ff10bd78bb/BAT.jpeg)
+![cmd](https://github.com/githubuseradmin/test/blob/fb348a00c3bcd97ea83c5b03cc8b94eac9046155/bat.png)
